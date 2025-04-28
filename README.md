@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andrea
-- 🤔 I’m interested in data science and bioinformatics
-- 💞️ I’m looking to collaborate on multidisciplinary projects with open-minded people
+- 🤔 I’m interested in data science, bioinformatics and I’m looking to collaborate on multidisciplinary projects with open-minded people
 - 📫 How to reach me: andrealicialopez@gmail.com
 - 📺 youtube channel: @missbiology4455
 
